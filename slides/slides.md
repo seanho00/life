@@ -1,7 +1,9 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="title" -->
 # Life
 ## Ecclesiastes 12
 ### The Meaning of Life (4/5)
+
+[Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -10,7 +12,7 @@
 [###](#/outline "secret")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="outline" class="outline" -->
 ## Life [(Ecc12)](# "ref")
 1.
 2.
