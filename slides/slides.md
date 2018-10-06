@@ -15,7 +15,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# What is the **purpose** of life?
 
 [###](#/outline "secret")
 
