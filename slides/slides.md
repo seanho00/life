@@ -23,13 +23,13 @@
 1 Remember also your Creator in the days of your youth,<br>
 before the evil days come<br>
 and the years draw near of which you will say,<br>
-“I have no pleasure in them”;
+“I have no pleasure in them” ...
 
 <div class="zh">
 你 趁 著 年 幼 、 衰 敗 的 日 子 尚 未 來 到 ，<br>
 就 是 你 所 說 ， 我 毫 無 喜 樂 的<br>
 那 些 年 日 未 曾 臨 近 之 先 ，<br>
-當 記 念 造 你 的 主 。
+當 記 念 造 你 的 主 。 ...
 </div>
 
 ---
