@@ -83,7 +83,7 @@ with every secret thing, whether good or evil.
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="outline" class="outline" -->
 ## Life [(Ecc12)](# "ref")
-1.
-2.
-3.
+1. Our Eternal **Home** [(v1-8)](# "ref")
+1. The Shepherd's **Goads** [(v9-12)](# "ref")
+1. The **Whole** of Man [(v13-14)](# "ref")
 
