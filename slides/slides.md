@@ -163,5 +163,16 @@ Rejoice, O young man, in your youth, and let your heart cheer you in the days of
 
 ---
 ## Phil 1 fruitful labor
+
+---
 ## 1 Cor 15:30-32 why suffer for gospel
 ## vs eat drink die
+
+---
+## 1 Cor 15:54-56
+## death swallowed up in victory
+
+---
+## 1 Cor 15:58
+## labour in Lord not in vain
+
