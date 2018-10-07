@@ -187,6 +187,14 @@ for **youth** and the **dawn of life** are **vanity**.
 ## vs eat drink die
 
 ---
+## 1 Cor 1:8b-9a
+## great pressure, sentence of death
+
+---
+## 1 Cor 1:9b
+## rely on God who raises dead
+
+---
 ## 1 Cor 15:54-56
 ## death swallowed up in victory
 
