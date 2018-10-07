@@ -142,7 +142,7 @@ Vanity of vanities, says the Preacher; all is vanity.
 
 ---
 [1](# "ref")
-Remember also your **Creator** in the days of your youth,<br>
+Remember also your **Creator** in the days of your **youth**,<br>
 before the **evil days** come
 
 <div class="zh">
@@ -156,10 +156,28 @@ before the **evil days** come
 [Ecclesiastes 傳道書 12:1 (ESV/CUV)](# "ref")
 
 ---
-Rejoice, O young man, in your youth, and let your heart cheer you in the days of your youth. Walk in the ways of your heart and the sight of your eyes. But know that for all these things God will bring you into judgment.
+Rejoice, O young man, in your **youth**, and <br>
+let your heart **cheer** you in the days of your youth. <br>
+Walk in the ways of your **heart** <br>
+and the sight of your **eyes**.
 
-10 Remove vexation from your heart, and put away pain from your body, for youth and the dawn of life are vanity.
+But **know** that for all these things <br>
+God will bring you into **judgment**.
 
+<div class="zh">
+</div>
+
+[Ecclesiastes 傳道書 11:9 (ESV/CUV) (p.1/2)](# "ref")
+
+---
+Remove **vexation** from your heart, <br>
+and put away **pain** from your body, <br>
+for **youth** and the **dawn of life** are **vanity**.
+
+<div class="zh">
+</div>
+
+[Ecclesiastes 傳道書 11:10 (ESV/CUV) (p.2/2)](# "ref")
 
 ---
 ## Phil 1 fruitful labor
