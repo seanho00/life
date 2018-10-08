@@ -480,7 +480,18 @@ For the law of the **Spirit of life** has set you<br>
 
 ---
 <!-- .slide: data-background="white" -->
-#
+# Will I **trust** Jesus with my **life**?
+
+>>>
++ the entirety of **who I am** is
+  + to **fear** God and
+  + **keep** His commands
++ not **fearing** the coming **judgment**
+  + but **trusting** my life to Jesus
+  + who has **bourne** the penalty for me
++ He gives me new **life**
+  + new **hope** above the **sun**
+  + **purpose** + meaning in this life
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="empty" -->
