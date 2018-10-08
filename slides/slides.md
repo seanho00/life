@@ -130,45 +130,6 @@ with every secret thing, whether good or evil.
 
 ---
 [1](# "ref")
-Remember also your Creator in the days of your youth,<br>
-before the evil days come<br>
-and the years draw near of which you will say,<br>
-“I have no pleasure in them” ...
-
-<div class="zh">
-[1](# "ref")
-你 趁 著 年 幼 、 衰 敗 的 日 子 尚 未 來 到 ，<br>
-就 是 你 所 說 ， 我 毫 無 喜 樂 的<br>
-那 些 年 日 未 曾 臨 近 之 先 ，<br>
-當 記 念 造 你 的 主 。 ...
-</div>
-
-[Ecclesiastes 傳道書 12:1 (ESV/CUV) (p.1/4)](# "ref")
-
----
-## (full v1-8 text)
-
----
-[7](# "ref")
-and the dust returns to the earth as it was,<br>
-and the spirit returns to God who gave it.
-
-[8](# "ref")
-Vanity of vanities, says the Preacher; all is vanity.
-
-<div class="zh">
-[7](# "ref")
-塵 土 仍 歸 於 地 ， 靈 仍 歸 於 賜 靈 的 神 。<br>
-
-[8](# "ref")
-傳 道 者 說 ：<br>
-虛 空 的 虛 空 ， 凡 事 都 是 虛 空 。
-</div>
-
-[Ecclesiastes 傳道書 12:7-8 (ESV/CUV) (p.2/4)](# "ref")
-
----
-[1](# "ref")
 Remember also your **Creator** in the days of your **youth**,<br>
 before the **evil days** come
 
@@ -182,29 +143,114 @@ before the **evil days** come
 
 [Ecclesiastes 傳道書 12:1 (ESV/CUV)](# "ref")
 
----
-Rejoice, O young man, in your **youth**, and <br>
-let your heart **cheer** you in the days of your youth. <br>
-Walk in the ways of your **heart** <br>
-and the sight of your **eyes**.
-
-But **know** that for all these things <br>
-God will bring you into **judgment**.
-
-<div class="zh">
-</div>
-
-[Ecclesiastes 傳道書 11:9 (ESV/CUV) (p.1/2)](# "ref")
+>>>
 
 ---
-Remove **vexation** from your heart, <br>
-and put away **pain** from your body, <br>
-for **youth** and the **dawn of life** are **vanity**.
+
+---
+[1](# "ref")
+Remember also your **Creator** in the days of your **youth**,<br>
+before the **evil days** come<br>
+and the years draw near of which you will say,<br>
+“I have **no pleasure** in them”;
 
 <div class="zh">
+[1](# "ref")
+你 趁 著 年 幼 、 衰 敗 的 日 子 尚 未 來 到 ，<br>
+就 是 你 所 說 ， 我 毫 無 喜 樂 的<br>
+那 些 年 日 未 曾 臨 近 之 先 ，<br>
+當 記 念 造 你 的 主 。
 </div>
 
-[Ecclesiastes 傳道書 11:10 (ESV/CUV) (p.2/2)](# "ref")
+[Ecclesiastes 傳道書 12:1 (ESV/CUV) (p.1/4)](# "ref")
+
+---
+[2](# "ref")
+before the sun and the light <br>
+and the moon and the stars are darkened <br>
+and the clouds return after the rain,
+
+<div class="zh">
+[2](# "ref")
+不 要 等 到 日 頭 、 光 明 、 月 亮 、 <br>
+星 宿 變 為 黑 暗 ， 雨 後 雲 彩 反 回 ， <br>
+</div>
+
+---
+[3](# "ref")
+in the day when the keepers of the house tremble, <br>
+and the strong men are bent, <br>
+and the grinders cease because they are few, <br>
+and those who look through the windows are dimmed,
+
+<div class="zh">
+[3](# "ref")
+看 守 房 屋 的 發 顫 ， 有 力 的 屈 身 ， <br>
+推 磨 的 稀 少 就 止 息 ， <br>
+從 窗 戶 往 外 看 的 都 昏 暗 ；
+</div>
+
+---
+[4](# "ref")
+and the doors on the street are shut -- <br>
+when the sound of the grinding is low, <br>
+and one rises up at the sound of a bird, <br>
+and all the daughters of song are brought low --
+
+<div class="zh">
+[4](# "ref")
+街 門 關 閉 ， 推 磨 的 響 聲 微 小 ， <br>
+雀 鳥 一 叫 ， 人 就 起 來 ， <br>
+唱 歌 的 女 子 也 都 衰 微 。
+</div>
+
+---
+[5](# "ref")
+they are afraid also of what is high, <br>
+and terrors are in the way; <br>
+the almond tree blossoms, <br>
+the grasshopper drags itself along, and desire fails, <br>
+because man is going to his eternal home, <br>
+and the mourners go about the streets --
+
+<div class="zh">
+[5](# "ref")
+人 怕 高 處 ， 路 上 有 驚 慌 ， 杏 樹 開 花 ， <br>
+蚱 蜢 成 為 重 擔 ， 人 所 願 的 也 都 廢 掉 ； <br>
+因 為 人 歸 他 永 遠 的 家 ， 弔 喪 的 在 街 上 往 來 。
+</div>
+
+---
+[6](# "ref")
+before the silver cord is snapped, <br>
+or the golden bowl is broken, <br>
+or the pitcher is shattered at the fountain, <br>
+or the wheel broken at the cistern,
+
+<div class="zh">
+[6](# "ref")
+銀 鍊 折 斷 ， 金 罐 破 裂 ，  <br>
+瓶 子 在 泉 旁 損 壞 ， 水 輪 在 井 口 破 爛 ，
+</div>
+
+---
+[7](# "ref")
+and the **dust** returns to the **earth** as it was,<br>
+and the **spirit** returns to **God** who gave it.
+
+[8](# "ref")
+**Vanity** of vanities, says the Preacher; all is vanity.
+
+<div class="zh">
+[7](# "ref")
+塵 土 仍 歸 於 地 ， 靈 仍 歸 於 賜 靈 的 神 。<br>
+
+[8](# "ref")
+傳 道 者 說 ：<br>
+虛 空 的 虛 空 ， 凡 事 都 是 虛 空 。
+</div>
+
+[Ecclesiastes 傳道書 12:7-8 (ESV/CUV) (p.2/4)](# "ref")
 
 ---
 ## Phil 1 fruitful labor
