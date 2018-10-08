@@ -1,7 +1,7 @@
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="title" -->
 # Life
 ## Ecclesiastes 12
-### The Meaning of Life (4/5)
+### The Meaning of Life (5/5)
 
 [Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
@@ -14,11 +14,34 @@
 1. *Sun pm:* What is the **Fate** of mankind? [(ch9)](# "ref")
 1. *Mon am:* What is the meaning of **Life**? [(ch12)](# "ref")
 
+>>>
++ Sol's **search** for meaning / purpose
++ tried **pleasure, projects, possessions**
+  + what is **crooked** cannot be straightened
++ tried **wisdom** + **folly**
+  + wisdom: only more **frustration**
+  + folly: **harms** self
++ could only see up to **death**, not **beyond** it
+  + but hope of **resurrection** changes everything
+
 ---
 <!-- .slide: data-background="white" -->
 # What is the **purpose** of life?
 
 [###](#/outline "secret")
+
+>>>
++ today: Sol's **conclusion**
++ with all of his **wisdom** and **resources**
+  + Teacher (Qoheleth): **assembles** wisdom
++ from what he can see **under the sun**
++ the **end of the matter**:
+  + the **sum** of
+  + what our **life** on earth
+  + **amounts** to
++ ch12 opens with a sad + beautiful **poem**
+  + we'll only read **part** of it now
+  + I'll read the rest for you shortly:
 
 ---
 [1](# "ref")
@@ -35,7 +58,7 @@ and the years draw near of which you will say,<br>
 當 記 念 造 你 的 主 。 ...
 </div>
 
-[Ecclesiastes 傳道書 12:1 (ESV/CUV) (p.1/4)](# "ref")
+[Ecclesiastes 傳道書 12:1 (ESV/CUV) (p.1/5)](# "ref")
 
 ---
 [7](# "ref")
@@ -54,7 +77,7 @@ Vanity of vanities, says the Preacher; all is vanity.
 虛 空 的 虛 空 ， 凡 事 都 是 虛 空 。
 </div>
 
-[Ecclesiastes 傳道書 12:7-8 (ESV/CUV) (p.2/4)](# "ref")
+[Ecclesiastes 傳道書 12:7-8 (ESV/CUV) (p.2/5)](# "ref")
 
 ---
 [11](# "ref")
@@ -69,7 +92,7 @@ they are given by one Shepherd.
 都 是 一 個 牧 者 所 賜 的 。
 </div>
 
-[Ecclesiastes 傳道書 12:11 (ESV/CUV) (p.3/4)](# "ref")
+[Ecclesiastes 傳道書 12:11 (ESV/CUV) (p.3/5)](# "ref")
 
 ---
 [13](# "ref")
@@ -77,22 +100,26 @@ The end of the matter; all has been heard.<br>
 Fear God and keep his commandments,<br>
 for this is the whole duty of man.
 
-[14](# "ref")
-For God will bring every deed into judgment,<br>
-with every secret thing, whether good or evil.
-
 <div class="zh">
 [13](# "ref")
 這 些 事 都 已 聽 見 了 ， 總 意 就 是 ：<br>
 敬 畏 神 ， 謹 守 他 的 誡 命 ，<br>
 這 是 人 所 當 盡 的 本 分<br>
+</div>
 
+[Ecclesiastes 傳道書 12:13 (ESV/CUV) (p.4/5)](# "ref")
+
+[14](# "ref")
+For God will bring every deed into judgment,<br>
+with every secret thing, whether good or evil.
+
+<div class="zh">
 [14](# "ref")
 因 為 人 所 做 的 事 ， 連 一 切 隱 藏 的 事 ，<br>
 無 論 是 善 是 惡 ， 神 都 必 審 問 。
 </div>
 
-[Ecclesiastes 傳道書 12:13-14 (ESV/CUV) (p.4/4)](# "ref")
+[Ecclesiastes 傳道書 12:14 (ESV/CUV) (p.5/5)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="outline" class="outline" -->
@@ -201,4 +228,12 @@ for **youth** and the **dawn of life** are **vanity**.
 ---
 ## 1 Cor 15:58
 ## labour in Lord not in vain
+
+---
+## rom 8:11
+## He who raised Christ gives you life
+
+---
+## rom 8:24-25
+## unseen hope, wait patiently
 
