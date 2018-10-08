@@ -130,6 +130,7 @@ with every secret thing, whether good or evil.
 1. The **Fear** of the LORD [(v13-14)](# "ref")
 
 ---
+<!-- .slide: <%= bg("pixabay-852423-homeless.jpg") %> -->
 [1](# "ref")
 Remember also your **Creator** in the days of your **youth**,<br>
 before the **evil days** come
@@ -155,6 +156,7 @@ before the **evil days** come
 + are we **prepared**?
 
 ---
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 Man is going to his **eternal home**, <br>
 and the **mourners** go about the streets
 
@@ -164,6 +166,7 @@ and the **mourners** go about the streets
 </div>
 
 [Ecclesiastes 傳道書 12:5 (ESV/CUV)](# "ref")
+[Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
 + we were **created** by God
@@ -173,6 +176,7 @@ and the **mourners** go about the streets
   + an **accounting** of our lives:
 
 ---
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 Just as it is appointed for man to **die once**,<br>
 and after that comes **judgment**,
 
@@ -181,6 +185,7 @@ and after that comes **judgment**,
 </div>
 
 [Hebrews 9:27 (ESV/CUV) (p.1/2)](# "ref")
+[Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
 
 >>>
 + **how** will we be **judged**?
@@ -189,6 +194,7 @@ and after that comes **judgment**,
   + eternity in the **fires** of His judgment
 
 ---
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 so **Christ**, having been **offered once** <br>
 to bear the **sins** of many,
 
@@ -200,6 +206,7 @@ but to **save** those who are eagerly waiting for him.
 </div>
 
 [Hebrews 9:28 (ESV/CUV) (p.2/2)](# "ref")
+[Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
 
 >>>
 + but Jesus' **death** on cross
@@ -219,6 +226,7 @@ but to **save** those who are eagerly waiting for him.
 + are we **prepared** for our **eternal home**?
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 [1](# "ref")
 Remember also your **Creator** in the days of your **youth**,<br>
 before the **evil days** come<br>
@@ -234,8 +242,10 @@ and the years draw near of which you will say,<br>
 </div>
 
 [Ecclesiastes 傳道書 12:1 (ESV/CUV) (p.1/8)](# "ref")
+[Dominik QN, Thailand](https://unsplash.com/photos/9gGQvhC4PEY "caption")
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 [2](# "ref")
 before the **sun** and the light <br>
 and the **moon** and the stars are **darkened** <br>
@@ -250,6 +260,7 @@ and the **clouds** return after the rain,
 [Ecclesiastes 傳道書 12:6 (ESV/CUV) (p.2/8)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 [3](# "ref")
 in the day when the **keepers** of the house tremble, <br>
 and the **strong men** are bent, <br>
@@ -266,6 +277,7 @@ and those who look through the **windows** are dimmed,
 [Ecclesiastes 傳道書 12:6 (ESV/CUV) (p.3/8)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 [4](# "ref")
 and the **doors** on the street are shut -- <br>
 when the sound of the **grinding** is low, <br>
@@ -282,6 +294,7 @@ and all the daughters of **song** are brought low --
 [Ecclesiastes 傳道書 12:6 (ESV/CUV) (p.4/8)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 [5](# "ref")
 they are **afraid** also of what is **high**, <br>
 and terrors are in the **way**; <br>
@@ -297,6 +310,7 @@ the **grasshopper** drags itself along, and **desire** fails,
 [Ecclesiastes 傳道書 12:6 (ESV/CUV) (p.5/8)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 because man is going to his **eternal home**, <br>
 and the **mourners** go about the streets --
 
@@ -308,6 +322,7 @@ and the **mourners** go about the streets --
 [Ecclesiastes 傳道書 12:6 (ESV/CUV) (p.6/8)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 [6](# "ref")
 before the **silver cord** is snapped, <br>
 or the **golden bowl** is broken, <br>
@@ -323,6 +338,7 @@ or the **wheel** broken at the cistern,
 [Ecclesiastes 傳道書 12:6 (ESV/CUV) (p.7/8)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 [7](# "ref")
 and the **dust** returns to the **earth** as it was,<br>
 and the **spirit** returns to **God** who gave it.
@@ -365,6 +381,7 @@ and the **spirit** returns to **God** who gave it.
 + Sol **reflects** on his pursuit of **wisdom**:
 
 ---
+<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
 The **words** of the wise are like **goads**,<br>
 and like **nails** firmly fixed are the collected sayings;<br>
 they are given by one **Shepherd**.
@@ -376,6 +393,7 @@ they are given by one **Shepherd**.
 </div>
 
 [Ecclesiastes 傳道書 12:11 (ESV/CUV)](# "ref")
+[Elephant Rock, Australia. Jordan Donaldson](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
 
 >>>
 + **goads**: poky sticks to **guide** plowing animals
@@ -411,6 +429,7 @@ they are given by one **Shepherd**.
 + finally come to Sol's **conclusion**
 
 ---
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 The **end** of the matter; all has been heard.<br>
 **Fear God** and keep his **commandments**,<br>
 for this is the **whole** duty of man.
@@ -422,6 +441,7 @@ for this is the **whole** duty of man.
 </div>
 
 [Ecclesiastes 傳道書 12:13 (ESV/CUV) (p.1/2)](# "ref")
+[Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 
 >>>
 + **whole duty**: Heb. doesn't have "duty"
@@ -438,6 +458,7 @@ for this is the **whole** duty of man.
   + but also **merciful** + **loving**
 
 ---
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 For God will bring every **deed** into **judgment**,<br>
 with every **secret** thing, whether **good** or **evil**.
 
@@ -457,6 +478,7 @@ with every **secret** thing, whether **good** or **evil**.
   + Romans 8 **encourages** us:
 
 ---
+<!-- .slide: <%= bg("unsplash--wT0iS-TSZM-Anterne_cross.jpg") %> -->
 There is therefore now **no condemnation**<br>
 for those who are in **Christ Jesus**.
 
@@ -468,6 +490,7 @@ For the law of the **Spirit of life** has set you<br>
 </div>
 
 [Romans 8:1-2 (ESV/CUV) (p.1/2)](# "ref")
+[Lac d'Anterne, France.  Hugues de Buyer-Mimeure](https://unsplash.com/photos/-wT0iS-TSZM "caption")
 
 >>>
 + law of **sin+death**:
