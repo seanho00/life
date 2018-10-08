@@ -24,3 +24,15 @@ for **youth** and the **dawn of life** are **vanity**.
 </div>
 
 [Ecclesiastes 傳道書 11:10 (ESV/CUV) (p.2/2)](# "ref")
+
+---
+## 1 Cor 15:30-32 why suffer for gospel
+## vs eat drink die
+
+---
+## 1 Cor 1:8b-9a
+## great pressure, sentence of death
+
+---
+## 1 Cor 1:9b
+## rely on God who raises dead

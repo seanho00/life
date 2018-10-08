@@ -185,6 +185,8 @@ and after that comes **judgment**,
 >>>
 + **how** will we be **judged**?
 + if **no one** is righteous in God's sight
++ then our **eternal home** would be
+  + eternity in the **fires** of His judgment
 
 ---
 so **Christ**, having been **offered once** <br>
@@ -200,7 +202,7 @@ but to **save** those who are eagerly waiting for him.
 [Hebrews 9:28 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
-+ Jesus' **death** on cross
++ but Jesus' **death** on cross
   + has already **bourne** our sins
 + **one** sacrifice to cover
   + **all** our misdeeds past/present/future
@@ -343,6 +345,14 @@ and the **spirit** returns to **God** who gave it.
 <!-- .slide: data-background="white" -->
 # Am I **prepared** to go to my **eternal home**?
 
+>>>
++ appointed to **die** once
+  + then to face **judgment**
++ only Jesus' **sacrifice** can take away our **sin**
++ we **eagerly await** His **return**
++ and **look forward** to our **eternal home**
+  + at **rest** in His arms
+
 ---
 ## outline 2
 
@@ -405,18 +415,6 @@ with every **secret** thing, whether **good** or **evil**.
 
 ---
 ## Phil 1 fruitful labor
-
----
-## 1 Cor 15:30-32 why suffer for gospel
-## vs eat drink die
-
----
-## 1 Cor 1:8b-9a
-## great pressure, sentence of death
-
----
-## 1 Cor 1:9b
-## rely on God who raises dead
 
 ---
 ## 1 Cor 15:54-56
