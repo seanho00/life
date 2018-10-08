@@ -357,7 +357,8 @@ and the **spirit** returns to **God** who gave it.
 ## outline 2
 
 >>>
-
++ coming toward **conclusion**
++ Sol **reflects** on his pursuit of **wisdom**:
 
 ---
 The **words** of the wise are like **goads**,<br>
@@ -373,13 +374,33 @@ they are given by one **Shepherd**.
 [Ecclesiastes 傳道書 12:11 (ESV/CUV)](# "ref")
 
 >>>
++ **goads**: poky sticks to **guide** plowing animals
+  + **uncomfortable**, by design
+  + **immovable**, useless to kick against them
+  + **turn** us where we ought to go
++ **nails**: sturdy, reliable
+  + **trust** my life to it
+  + it won't **let** me down
++ one **Shepherd**: everything in Eccl is from **God**
+  + all of Sol's observations **under the sun**
+  + are still **true**!
++ **futility** of earthly **ambitions** drives us to
+  + set our **hope** on what is **eternal**
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# What words of **wisdom** have been **goading** me?
+
+>>>
++ like sharp poky **sticks**
++ God's **truth** often **uncomfortable**
++ but **guides** us where we need to go
 
 ---
 ## outline 3
+
+>>>
++ finally come to Sol's **conclusion**
 
 ---
 The **end** of the matter; all has been heard.<br>
@@ -395,6 +416,18 @@ for this is the **whole** duty of man.
 [Ecclesiastes 傳道書 12:13 (ESV/CUV) (p.1/2)](# "ref")
 
 >>>
++ **whole duty**: Heb. doesn't have "duty"
+  + "the **whole** of man"
++ the **sum** of our existence on earth
+  + our **identity**, who we are
++ **fear God**: common theme throughout OT
+  + right **attitude**: awe, reverence, honour
+  + manifest in **obedience** to His commands
+  + in both Heb/Gr, same word as **terror**
++ but usually we run **away** from what we fear
+  + fear of the LORD draws us **closer**
++ He is not only **just** + **holy**
+  + but also **merciful** + **loving**
 
 ---
 For God will bring every **deed** into **judgment**,<br>
@@ -408,21 +441,9 @@ with every **secret** thing, whether **good** or **evil**.
 [Ecclesiastes 傳道書 12:14 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
-
----
-<!-- .slide: data-background="white" -->
-# Q3
-
----
-## Phil 1 fruitful labor
-
----
-## 1 Cor 15:54-56
-## death swallowed up in victory
-
----
-## 1 Cor 15:58
-## labour in Lord not in vain
++ this sounds really **scary**!
++ nothing is **hidden** from God's sight
+  + even hidden **thoughts** of the heart
 
 ---
 ## rom 8:11
@@ -431,6 +452,26 @@ with every **secret** thing, whether **good** or **evil**.
 ---
 ## rom 8:24-25
 ## unseen hope, wait patiently
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
+
+---
+The **end** of the matter; all has been heard.<br>
+**Fear God** and keep his **commandments**,<br>
+for this is the **whole** duty of man.
+
+<div class="zh">
+這 些 事 都 已 聽 見 了 ， 總 意 就 是 ：<br>
+敬 畏 神 ， 謹 守 他 的 誡 命 ，<br>
+這 是 人 所 當 盡 的 本 分<br>
+</div>
+
+[Ecclesiastes 傳道書 12:13 (ESV/CUV)](# "ref")
+
+>>>
++ **read** together
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="empty" -->

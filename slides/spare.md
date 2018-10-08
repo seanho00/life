@@ -36,3 +36,14 @@ for **youth** and the **dawn of life** are **vanity**.
 ---
 ## 1 Cor 1:9b
 ## rely on God who raises dead
+
+---
+## Phil 1 fruitful labor
+
+---
+## 1 Cor 15:54-56
+## death swallowed up in victory
+
+---
+## 1 Cor 15:58
+## labour in Lord not in vain
