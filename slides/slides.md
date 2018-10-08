@@ -26,7 +26,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is <br> the **purpose** of life?
+# What is <br> the **meaning** of life?
 
 [###](#/outline "secret")
 
@@ -181,10 +181,11 @@ Just as it is appointed for man to **die once**,<br>
 and after that comes **judgment**,
 
 <div class="zh">
-# TODO
+按 著 定 命 ， 人 人 都 有 一 死 ，<br>
+死 後 且 有 審 判 。
 </div>
 
-[Hebrews 9:27 (ESV/CUV) (p.1/2)](# "ref")
+[Hebrews 希伯來書 9:27 (ESV/CUV) (p.1/2)](# "ref")
 [Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
 
 >>>
@@ -202,10 +203,13 @@ will appear a **second** time, not to deal with **sin** <br>
 but to **save** those who are eagerly waiting for him.
 
 <div class="zh">
-# TODO
+像 這 樣 ， 基 督 既 然 一 次 被 獻 ，<br>
+擔 當 了 多 人 的 罪 ， <br>
+將 來 要 向 那 等 候 他 的 人 第 二 次 顯 現 ， <br>
+並 與 罪 無 關 ， 乃 是 為 拯 救 他 們 。
 </div>
 
-[Hebrews 9:28 (ESV/CUV) (p.2/2)](# "ref")
+[Hebrews 希伯來書 9:28 (ESV/CUV) (p.2/2)](# "ref")
 [Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
 
 >>>
@@ -411,7 +415,7 @@ they are given by one **Shepherd**.
 
 ---
 <!-- .slide: data-background="white" -->
-# What words of **wisdom** have been **goading** me?
+# What words of **wisdom** have been <br> **goading** me?
 
 >>>
 + like sharp poky **sticks**
@@ -482,15 +486,31 @@ with every **secret** thing, whether **good** or **evil**.
 There is therefore now **no condemnation**<br>
 for those who are in **Christ Jesus**.
 
+<div class="zh">
+如 今 ， 那 些 在 基 督 耶 穌 裡 的 <br>
+就 不 定 罪 了 。
+</div>
+
+[Romans 羅馬書 8:1 (ESV/CUV) (p.1/2)](# "ref")
+[Lac d'Anterne, France.  Hugues de Buyer-Mimeure](https://unsplash.com/photos/-wT0iS-TSZM "caption")
+
+>>>
++ when we face **judgment**
+  + all our **secret sins** revealed
+  + before the **holy** Creator
++ if we are in **Christ Jesus**
+  + He saves us from being **condemned**
+
+---
+<!-- .slide: <%= bg("unsplash--wT0iS-TSZM-Anterne_cross.jpg") %> -->
 For the law of the **Spirit of life** has set you<br>
 **free** in Christ from the law of **sin and death**.
 
 <div class="zh">
-# TODO
+因 為 賜 生 命 聖 靈 的 律 ， 在 基 督 耶 穌 裡 釋 放 了 我 ， 使 我 脫 離 罪 和 死 的 律 了 。
 </div>
 
-[Romans 8:1-2 (ESV/CUV) (p.1/2)](# "ref")
-[Lac d'Anterne, France.  Hugues de Buyer-Mimeure](https://unsplash.com/photos/-wT0iS-TSZM "caption")
+[Romans 羅馬書 8:2 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + law of **sin+death**:
@@ -503,7 +523,7 @@ For the law of the **Spirit of life** has set you<br>
 
 ---
 <!-- .slide: data-background="white" -->
-# Will I **trust** Jesus with my **life**?
+# Will I **trust** Jesus <br> with my **life**?
 
 >>>
 + the entirety of **who I am** is
@@ -515,6 +535,76 @@ For the law of the **Spirit of life** has set you<br>
 + He gives me new **life**
   + new **hope** above the **sun**
   + **purpose** + meaning in this life
+
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="empty" -->
+
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+Heavenly **Father**, I praise You. <br>
+Dear Lord **Jesus**, I thank You. <br>
+For You are the True **Creator**, <br>
+But You have come down to **earth** <br>
+to become **man**, to tell me that You **love** me,
+
+<div class="zh">
+親愛的天父，我讚美您；<br>
+耶穌基督，我感謝您。 <br>
+您是創造宇宙的真神，降世為人，因為您愛我，
+</div>
+
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+To die for my **sins** upon the **cross**, <br>
+to shed Your precious **blood** <br>
+and rid me of **guilt**, <br>
+to **rise** from the dead and give me a new **life**.
+
+<div class="zh">
+為我的罪死在十字架上， <br>
+流寶血洗淨我一切的不義， <br>
+從死裡復活，叫我得新生命。
+</div>
+
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+I **want** You, dear Lord Jesus. <br>
+Please come into my **heart**. <br>
+Be my **Lord** and Savior and **forgive** my sins: <br>
+the sin of only **trusting** myself and not trusting You. <br>
+Starting today, I want to **follow** You.
+
+<div class="zh">
+我誠懇的請求您，請主耶穌基督住在我心中， <br>
+做我的救主，管理我的一生，請您赦免我的罪； <br>
+就是我自作主張，沒有遵從您的話。 <br>
+從今以後，我要遵從您的話。
+</div>
+
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+Please give me **eternal life**, that is, Your life. <br>
+Grant me the **Holy Spirit** to guide my ways.
+
+<div class="zh">
+求您賜我永生，就是您的生命。 <br>
+賜我聖靈，引導我進入真理。
+</div>
+
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+Let me experience Your **peace** and joy, <br>
+and fill my heart with Your **love**. <br>
+Bless my **family** and fill it with Your love. <br>
+This I **pray** in Your precious name, <br>
+Dear Lord **Jesus Christ**. Amen
+
+<div class="zh">
+賜我有您的平安和喜樂，讓您的愛充滿我的心， <br>
+求您看顧我的家，叫我們全家歸您， <br>
+享受您的愛，帶領我的前途。 <br>
+我這樣禱告，是奉主耶穌基督的名求，阿們！
+</div>
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="empty" -->
