@@ -537,4 +537,65 @@ For the law of the **Spirit of life** has set you<br>
   + **purpose** + meaning in this life
 
 ---
+Heavenly Father, I praise You. <br>
+Dear Lord Jesus, I thank You. <br>
+For You are the True Creator, <br>
+But You have come down to earth <br>
+to become man, to tell me that You love me,
+
+<div class="zh">
+親愛的天父，我讚美您；耶穌基督，我感謝您。 <br>
+您是創造宇宙的真神，降世為人，因為您愛我，
+</div>
+
+---
+To die for my sins upon the cross, <br>
+to shed Your precious blood <br>
+and rid me of guilt, <br>
+to rise from the dead and give me a new life.
+
+<div class="zh">
+為我的罪死在十字架上， <br>
+流寶血洗淨我一切的不義， <br>
+從死裡復活，叫我得新生命。
+</div>
+
+---
+I want You, dear Lord Jesus. <br>
+Please come into my heart. <br>
+Be my Lord and Savior and forgive my sins: <br>
+the sin of only trusting myself and not trusting You. <br>
+Starting today, I want to follow You.
+
+<div class="zh">
+我誠懇的請求您，請主耶穌基督住在我心中， <br>
+做我的救主，管理我的一生，請您赦免我的罪； <br>
+就是我自作主張，沒有遵從您的話。 <br>
+從今以後，我要遵從您的話。
+</div>
+
+---
+Please give me eternal life, that is, Your life. <br>
+Grant me the Holy Spirit to guide my ways.
+
+<div class="zh">
+求您賜我永生，就是您的生命。 <br>
+賜我聖靈，引導我進入真理。
+</div>
+
+---
+Let me experience Your peace and joy, <br>
+and fill my heart with Your love. <br>
+Bless my family and fill it with Your love. <br>
+This I pray in Your precious name, <br>
+Dear Lord Jesus Christ. Amen
+
+<div class="zh">
+賜我有您的平安和喜樂，讓您的愛充滿我的心， <br>
+求您看顧我的家，叫我們全家歸您， <br>
+享受您的愛，帶領我的前途。 <br>
+我這樣禱告，是奉主耶穌基督的名求，阿們！
+</div>
+
+---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="empty" -->
