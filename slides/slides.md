@@ -146,12 +146,13 @@ before the **evil days** come
 
 >>>
 + getting **old** is no fun
-+ have **wisdom** of experience
-+ but feel increasingly **powerless**
-+ the **decay** of our bodies is **evil**:
-+ **not** part of God's original **plan**
-  + but a result of mankind's **sin**
-+
+  + have **wisdom** of experience
++ but also **regret** over wasted **youth**:
+  + only thought of **own** dreams/aspirations
+  + did not acknowledge our **Creator**
++ facing **death** brings life into **focus**
+  + we are going to **face** our Creator
++ are we **prepared**?
 
 ---
 Man is going to his **eternal home**, <br>
@@ -163,6 +164,57 @@ and the **mourners** go about the streets
 </div>
 
 [Ecclesiastes 傳道書 12:5 (ESV/CUV)](# "ref")
+
+>>>
++ we were **created** by God
++ so when we die, we **return** to Him
+  + our **eternal home**
++ Hebrews tells us we then face a **reckoning**
+  + an **accounting** of our lives:
+
+---
+Just as it is appointed for man to **die once**,<br>
+and after that comes **judgment**,
+
+<div class="zh">
+# TODO
+</div>
+
+[Hebrews 9:27 (ESV/CUV) (p.1/2)](# "ref")
+
+>>>
++ **how** will we be **judged**?
++ if **no one** is righteous in God's sight
+
+---
+so **Christ**, having been **offered once** <br>
+to bear the **sins** of many,
+
+will appear a **second** time, not to deal with **sin** <br>
+but to **save** those who are eagerly waiting for him.
+
+<div class="zh">
+# TODO
+</div>
+
+[Hebrews 9:28 (ESV/CUV) (p.2/2)](# "ref")
+
+>>>
++ Jesus' **death** on cross
+  + has already **bourne** our sins
++ **one** sacrifice to cover
+  + **all** our misdeeds past/present/future
++ first came riding a **donkey**, humble
+  + as **Suffering Servant**
++ but He will **return** soon, this time
+  + on a white **war horse** *(Rev19:11-16)*
+  + as **Victorious King**
++ this is the **hope** we eagerly **wait** for
++ **remember** Him, our **Creator**
+  + don't **waste** time on **meaningless** pursuits
++ I'll **read** for you the full text v1-8
+  + Sol's poem of **lament**
++ are we **prepared** for our **eternal home**?
 
 ---
 [1](# "ref")
@@ -289,10 +341,13 @@ and the **spirit** returns to **God** who gave it.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# Am I **prepared** to go to my **eternal home**?
 
 ---
 ## outline 2
+
+>>>
+
 
 ---
 The **words** of the wise are like **goads**,<br>
