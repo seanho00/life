@@ -26,7 +26,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is the **purpose** of life?
+# What is <br> the **purpose** of life?
 
 [###](#/outline "secret")
 
@@ -109,6 +109,7 @@ for this is the whole duty of man.
 
 [Ecclesiastes 傳道書 12:13 (ESV/CUV) (p.4/5)](# "ref")
 
+---
 [14](# "ref")
 For God will bring every deed into judgment,<br>
 with every secret thing, whether good or evil.
@@ -144,8 +145,24 @@ before the **evil days** come
 [Ecclesiastes 傳道書 12:1 (ESV/CUV)](# "ref")
 
 >>>
++ getting **old** is no fun
++ have **wisdom** of experience
++ but feel increasingly **powerless**
++ the **decay** of our bodies is **evil**:
++ **not** part of God's original **plan**
+  + but a result of mankind's **sin**
++
 
 ---
+Man is going to his **eternal home**, <br>
+and the **mourners** go about the streets
+
+<div class="zh">
+人 歸 他 永 遠 的 家 ， <br>
+弔 喪 的 在 街 上 往 來 。
+</div>
+
+[Ecclesiastes 傳道書 12:5 (ESV/CUV)](# "ref")
 
 ---
 [1](# "ref")
@@ -162,13 +179,13 @@ and the years draw near of which you will say,<br>
 當 記 念 造 你 的 主 。
 </div>
 
-[Ecclesiastes 傳道書 12:1 (ESV/CUV) (p.1/4)](# "ref")
+[Ecclesiastes 傳道書 12:1 (ESV/CUV) (p.1/8)](# "ref")
 
 ---
 [2](# "ref")
-before the sun and the light <br>
-and the moon and the stars are darkened <br>
-and the clouds return after the rain,
+before the **sun** and the light <br>
+and the **moon** and the stars are **darkened** <br>
+and the **clouds** return after the rain,
 
 <div class="zh">
 [2](# "ref")
@@ -176,12 +193,14 @@ and the clouds return after the rain,
 星 宿 變 為 黑 暗 ， 雨 後 雲 彩 反 回 ， <br>
 </div>
 
+[Ecclesiastes 傳道書 12:6 (ESV/CUV) (p.2/8)](# "ref")
+
 ---
 [3](# "ref")
-in the day when the keepers of the house tremble, <br>
-and the strong men are bent, <br>
-and the grinders cease because they are few, <br>
-and those who look through the windows are dimmed,
+in the day when the **keepers** of the house tremble, <br>
+and the **strong men** are bent, <br>
+and the **grinders** cease because they are few, <br>
+and those who look through the **windows** are dimmed,
 
 <div class="zh">
 [3](# "ref")
@@ -190,12 +209,14 @@ and those who look through the windows are dimmed,
 從 窗 戶 往 外 看 的 都 昏 暗 ；
 </div>
 
+[Ecclesiastes 傳道書 12:6 (ESV/CUV) (p.3/8)](# "ref")
+
 ---
 [4](# "ref")
-and the doors on the street are shut -- <br>
-when the sound of the grinding is low, <br>
-and one rises up at the sound of a bird, <br>
-and all the daughters of song are brought low --
+and the **doors** on the street are shut -- <br>
+when the sound of the **grinding** is low, <br>
+and one **rises up** at the sound of a bird, <br>
+and all the daughters of **song** are brought low --
 
 <div class="zh">
 [4](# "ref")
@@ -204,34 +225,48 @@ and all the daughters of song are brought low --
 唱 歌 的 女 子 也 都 衰 微 。
 </div>
 
+[Ecclesiastes 傳道書 12:6 (ESV/CUV) (p.4/8)](# "ref")
+
 ---
 [5](# "ref")
-they are afraid also of what is high, <br>
-and terrors are in the way; <br>
-the almond tree blossoms, <br>
-the grasshopper drags itself along, and desire fails, <br>
-because man is going to his eternal home, <br>
-and the mourners go about the streets --
+they are **afraid** also of what is **high**, <br>
+and terrors are in the **way**; <br>
+the **almond tree** blossoms, <br>
+the **grasshopper** drags itself along, and **desire** fails,
 
 <div class="zh">
 [5](# "ref")
 人 怕 高 處 ， 路 上 有 驚 慌 ， 杏 樹 開 花 ， <br>
-蚱 蜢 成 為 重 擔 ， 人 所 願 的 也 都 廢 掉 ； <br>
-因 為 人 歸 他 永 遠 的 家 ， 弔 喪 的 在 街 上 往 來 。
+蚱 蜢 成 為 重 擔 ， 人 所 願 的 也 都 廢 掉 ；
 </div>
+
+[Ecclesiastes 傳道書 12:6 (ESV/CUV) (p.5/8)](# "ref")
+
+---
+because man is going to his **eternal home**, <br>
+and the **mourners** go about the streets --
+
+<div class="zh">
+因 為 人 歸 他 永 遠 的 家 ，<br>
+弔 喪 的 在 街 上 往 來 。
+</div>
+
+[Ecclesiastes 傳道書 12:6 (ESV/CUV) (p.6/8)](# "ref")
 
 ---
 [6](# "ref")
-before the silver cord is snapped, <br>
-or the golden bowl is broken, <br>
-or the pitcher is shattered at the fountain, <br>
-or the wheel broken at the cistern,
+before the **silver cord** is snapped, <br>
+or the **golden bowl** is broken, <br>
+or the **pitcher** is shattered at the fountain, <br>
+or the **wheel** broken at the cistern,
 
 <div class="zh">
 [6](# "ref")
 銀 鍊 折 斷 ， 金 罐 破 裂 ，  <br>
 瓶 子 在 泉 旁 損 壞 ， 水 輪 在 井 口 破 爛 ，
 </div>
+
+[Ecclesiastes 傳道書 12:6 (ESV/CUV) (p.7/8)](# "ref")
 
 ---
 [7](# "ref")
@@ -250,7 +285,7 @@ and the **spirit** returns to **God** who gave it.
 虛 空 的 虛 空 ， 凡 事 都 是 虛 空 。
 </div>
 
-[Ecclesiastes 傳道書 12:7-8 (ESV/CUV) (p.2/4)](# "ref")
+[Ecclesiastes 傳道書 12:7-8 (ESV/CUV) (p.8/8)](# "ref")
 
 ---
 ## Phil 1 fruitful labor
