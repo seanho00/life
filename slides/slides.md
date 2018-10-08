@@ -415,7 +415,7 @@ they are given by one **Shepherd**.
 
 ---
 <!-- .slide: data-background="white" -->
-# What words of **wisdom** have been **goading** me?
+# What words of **wisdom** have been <br> **goading** me?
 
 >>>
 + like sharp poky **sticks**
@@ -507,7 +507,7 @@ For the law of the **Spirit of life** has set you<br>
 **free** in Christ from the law of **sin and death**.
 
 <div class="zh">
-2 因 為 賜 生 命 聖 靈 的 律 ， 在 基 督 耶 穌 裡 釋 放 了 我 ， 使 我 脫 離 罪 和 死 的 律 了 。
+因 為 賜 生 命 聖 靈 的 律 ， 在 基 督 耶 穌 裡 釋 放 了 我 ， 使 我 脫 離 罪 和 死 的 律 了 。
 </div>
 
 [Romans 羅馬書 8:2 (ESV/CUV) (p.2/2)](# "ref")
@@ -523,7 +523,7 @@ For the law of the **Spirit of life** has set you<br>
 
 ---
 <!-- .slide: data-background="white" -->
-# Will I **trust** Jesus with my **life**?
+# Will I **trust** Jesus <br> with my **life**?
 
 >>>
 + the entirety of **who I am** is
@@ -537,22 +537,28 @@ For the law of the **Spirit of life** has set you<br>
   + **purpose** + meaning in this life
 
 ---
-Heavenly Father, I praise You. <br>
-Dear Lord Jesus, I thank You. <br>
-For You are the True Creator, <br>
-But You have come down to earth <br>
-to become man, to tell me that You love me,
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="empty" -->
+
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+Heavenly **Father**, I praise You. <br>
+Dear Lord **Jesus**, I thank You. <br>
+For You are the True **Creator**, <br>
+But You have come down to **earth** <br>
+to become **man**, to tell me that You **love** me,
 
 <div class="zh">
-親愛的天父，我讚美您；耶穌基督，我感謝您。 <br>
+親愛的天父，我讚美您；<br>
+耶穌基督，我感謝您。 <br>
 您是創造宇宙的真神，降世為人，因為您愛我，
 </div>
 
 ---
-To die for my sins upon the cross, <br>
-to shed Your precious blood <br>
-and rid me of guilt, <br>
-to rise from the dead and give me a new life.
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+To die for my **sins** upon the **cross**, <br>
+to shed Your precious **blood** <br>
+and rid me of **guilt**, <br>
+to **rise** from the dead and give me a new **life**.
 
 <div class="zh">
 為我的罪死在十字架上， <br>
@@ -561,11 +567,12 @@ to rise from the dead and give me a new life.
 </div>
 
 ---
-I want You, dear Lord Jesus. <br>
-Please come into my heart. <br>
-Be my Lord and Savior and forgive my sins: <br>
-the sin of only trusting myself and not trusting You. <br>
-Starting today, I want to follow You.
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+I **want** You, dear Lord Jesus. <br>
+Please come into my **heart**. <br>
+Be my **Lord** and Savior and **forgive** my sins: <br>
+the sin of only **trusting** myself and not trusting You. <br>
+Starting today, I want to **follow** You.
 
 <div class="zh">
 我誠懇的請求您，請主耶穌基督住在我心中， <br>
@@ -575,8 +582,9 @@ Starting today, I want to follow You.
 </div>
 
 ---
-Please give me eternal life, that is, Your life. <br>
-Grant me the Holy Spirit to guide my ways.
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+Please give me **eternal life**, that is, Your life. <br>
+Grant me the **Holy Spirit** to guide my ways.
 
 <div class="zh">
 求您賜我永生，就是您的生命。 <br>
@@ -584,11 +592,12 @@ Grant me the Holy Spirit to guide my ways.
 </div>
 
 ---
-Let me experience Your peace and joy, <br>
-and fill my heart with Your love. <br>
-Bless my family and fill it with Your love. <br>
-This I pray in Your precious name, <br>
-Dear Lord Jesus Christ. Amen
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+Let me experience Your **peace** and joy, <br>
+and fill my heart with Your **love**. <br>
+Bless my **family** and fill it with Your love. <br>
+This I **pray** in Your precious name, <br>
+Dear Lord **Jesus Christ**. Amen
 
 <div class="zh">
 賜我有您的平安和喜樂，讓您的愛充滿我的心， <br>
