@@ -288,6 +288,67 @@ and the **spirit** returns to **God** who gave it.
 [Ecclesiastes 傳道書 12:7-8 (ESV/CUV) (p.8/8)](# "ref")
 
 ---
+<!-- .slide: data-background="white" -->
+# Q1
+
+---
+## outline 2
+
+---
+The **words** of the wise are like **goads**,<br>
+and like **nails** firmly fixed are the collected sayings;<br>
+they are given by one **Shepherd**.
+
+<div class="zh">
+智 慧 人 的 言 語 好 像 刺 棍 ；<br>
+會 中 之 師 的 言 語 又 像 釘 穩 的 釘 子 ，<br>
+都 是 一 個 牧 者 所 賜 的 。
+</div>
+
+[Ecclesiastes 傳道書 12:11 (ESV/CUV)](# "ref")
+
+>>>
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
+## outline 3
+
+---
+The **end** of the matter; all has been heard.<br>
+**Fear God** and keep his **commandments**,<br>
+for this is the **whole** duty of man.
+
+<div class="zh">
+這 些 事 都 已 聽 見 了 ， 總 意 就 是 ：<br>
+敬 畏 神 ， 謹 守 他 的 誡 命 ，<br>
+這 是 人 所 當 盡 的 本 分<br>
+</div>
+
+[Ecclesiastes 傳道書 12:13 (ESV/CUV) (p.1/2)](# "ref")
+
+>>>
+
+---
+For God will bring every **deed** into **judgment**,<br>
+with every **secret** thing, whether **good** or **evil**.
+
+<div class="zh">
+因 為 人 所 做 的 事 ， 連 一 切 隱 藏 的 事 ，<br>
+無 論 是 善 是 惡 ， 神 都 必 審 問 。
+</div>
+
+[Ecclesiastes 傳道書 12:14 (ESV/CUV) (p.2/2)](# "ref")
+
+>>>
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
+
+---
 ## Phil 1 fruitful labor
 
 ---
@@ -318,3 +379,5 @@ and the **spirit** returns to **God** who gave it.
 ## rom 8:24-25
 ## unseen hope, wait patiently
 
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="empty" -->
