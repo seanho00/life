@@ -127,7 +127,7 @@ with every secret thing, whether good or evil.
 ## Life [(Ecc12)](# "ref")
 1. Our Eternal **Home** [(v1-8)](# "ref")
 1. The Shepherd's **Goads** [(v9-12)](# "ref")
-1. The **Whole** of Man [(v13-14)](# "ref")
+1. The **Fear** of the LORD [(v13-14)](# "ref")
 
 ---
 [1](# "ref")
@@ -354,7 +354,11 @@ and the **spirit** returns to **God** who gave it.
   + at **rest** in His arms
 
 ---
-## outline 2
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
+## Life [(Ecc12)](# "ref")
+1. Our Eternal Home [(v1-8)](# "ref")
+1. **The Shepherd's Goads** [(v9-12)](# "ref")
+1. The Fear of the LORD [(v13-14)](# "ref")
 
 >>>
 + coming toward **conclusion**
@@ -397,7 +401,11 @@ they are given by one **Shepherd**.
 + but **guides** us where we need to go
 
 ---
-## outline 3
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
+## Life [(Ecc12)](# "ref")
+1. Our Eternal Home [(v1-8)](# "ref")
+1. The Shepherd's Goads [(v9-12)](# "ref")
+1. **The Fear of the LORD** [(v13-14)](# "ref")
 
 >>>
 + finally come to Sol's **conclusion**
@@ -442,36 +450,37 @@ with every **secret** thing, whether **good** or **evil**.
 
 >>>
 + this sounds really **scary**!
-+ nothing is **hidden** from God's sight
-  + even hidden **thoughts** of the heart
++ nothing is **hidden** from God's eyes
+  + even innermost **thoughts** of the heart
++ but if we have **Christ**,
+  + we do not **fear** this judgment
+  + Romans 8 **encourages** us:
 
 ---
-## rom 8:11
-## He who raised Christ gives you life
+There is therefore now **no condemnation**<br>
+for those who are in **Christ Jesus**.
 
----
-## rom 8:24-25
-## unseen hope, wait patiently
+For the law of the **Spirit of life** has set you<br>
+**free** in Christ from the law of **sin and death**.
+
+<div class="zh">
+# TODO
+</div>
+
+[Romans 8:1-2 (ESV/CUV) (p.1/2)](# "ref")
+
+>>>
++ law of **sin+death**:
+  + trying to be **righteous**
+  + is **futile** on our own strength
++ law of **Spirit of life**:
+  + Christ bore the **condemnation** in our place
+  + gave us **new life**
+  + and **Holy Spirit** to dwell in us
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
-
----
-The **end** of the matter; all has been heard.<br>
-**Fear God** and keep his **commandments**,<br>
-for this is the **whole** duty of man.
-
-<div class="zh">
-這 些 事 都 已 聽 見 了 ， 總 意 就 是 ：<br>
-敬 畏 神 ， 謹 守 他 的 誡 命 ，<br>
-這 是 人 所 當 盡 的 本 分<br>
-</div>
-
-[Ecclesiastes 傳道書 12:13 (ESV/CUV)](# "ref")
-
->>>
-+ **read** together
+#
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="empty" -->

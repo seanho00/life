@@ -47,3 +47,24 @@ for **youth** and the **dawn of life** are **vanity**.
 ---
 ## 1 Cor 15:58
 ## labour in Lord not in vain
+
+---
+## rom 8:11
+## He who raised Christ gives you life
+
+---
+## rom 8:24-25
+## unseen hope, wait patiently
+
+---
+No creature is **hidden** from His sight,
+but all are **naked** and **exposed**
+to the eyes of Him to whom we must **give account**.
+
+[Hebrews 4:13 (ESV/CUV)](# "ref")
+
+>>>
++ Hebrews 4 also talks of the **reckoning**:
++ **exposed**: bend back the **neck**
+  + in **wrestling** or **battle**
+  + to render **powerless** / vulnerable
