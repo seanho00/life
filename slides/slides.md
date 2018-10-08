@@ -181,10 +181,11 @@ Just as it is appointed for man to **die once**,<br>
 and after that comes **judgment**,
 
 <div class="zh">
-# TODO
+按 著 定 命 ， 人 人 都 有 一 死 ，<br>
+死 後 且 有 審 判 。
 </div>
 
-[Hebrews 9:27 (ESV/CUV) (p.1/2)](# "ref")
+[Hebrews 希伯來書 9:27 (ESV/CUV) (p.1/2)](# "ref")
 [Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
 
 >>>
@@ -202,10 +203,13 @@ will appear a **second** time, not to deal with **sin** <br>
 but to **save** those who are eagerly waiting for him.
 
 <div class="zh">
-# TODO
+像 這 樣 ， 基 督 既 然 一 次 被 獻 ，<br>
+擔 當 了 多 人 的 罪 ， <br>
+將 來 要 向 那 等 候 他 的 人 第 二 次 顯 現 ， <br>
+並 與 罪 無 關 ， 乃 是 為 拯 救 他 們 。
 </div>
 
-[Hebrews 9:28 (ESV/CUV) (p.2/2)](# "ref")
+[Hebrews 希伯來書 9:28 (ESV/CUV) (p.2/2)](# "ref")
 [Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
 
 >>>
@@ -482,15 +486,31 @@ with every **secret** thing, whether **good** or **evil**.
 There is therefore now **no condemnation**<br>
 for those who are in **Christ Jesus**.
 
+<div class="zh">
+如 今 ， 那 些 在 基 督 耶 穌 裡 的 <br>
+就 不 定 罪 了 。
+</div>
+
+[Romans 羅馬書 8:1 (ESV/CUV) (p.1/2)](# "ref")
+[Lac d'Anterne, France.  Hugues de Buyer-Mimeure](https://unsplash.com/photos/-wT0iS-TSZM "caption")
+
+>>>
++ when we face **judgment**
+  + all our **secret sins** revealed
+  + before the **holy** Creator
++ if we are in **Christ Jesus**
+  + He saves us from being **condemned**
+
+---
+<!-- .slide: <%= bg("unsplash--wT0iS-TSZM-Anterne_cross.jpg") %> -->
 For the law of the **Spirit of life** has set you<br>
 **free** in Christ from the law of **sin and death**.
 
 <div class="zh">
-# TODO
+2 因 為 賜 生 命 聖 靈 的 律 ， 在 基 督 耶 穌 裡 釋 放 了 我 ， 使 我 脫 離 罪 和 死 的 律 了 。
 </div>
 
-[Romans 8:1-2 (ESV/CUV) (p.1/2)](# "ref")
-[Lac d'Anterne, France.  Hugues de Buyer-Mimeure](https://unsplash.com/photos/-wT0iS-TSZM "caption")
+[Romans 羅馬書 8:2 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + law of **sin+death**:
