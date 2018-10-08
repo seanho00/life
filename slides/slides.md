@@ -26,7 +26,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is <br> the **purpose** of life?
+# What is <br> the **meaning** of life?
 
 [###](#/outline "secret")
 
