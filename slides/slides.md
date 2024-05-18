@@ -1,17 +1,17 @@
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="title" -->
 # Life
 ## Ecclesiastes 12
-### The Meaning of Life (4/4)
+### The Search for Meaning (4/4)
 
 [Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="series" class="outline" -->
 1. *Sat pm:* What is **Wisdom**? [(ch1)](# "ref")
-1. *Sun am:* Is there <br> meaning
+1. *Sun am:* Is there meaning <br>
   in **Ambition** + **Money**? [(ch2,5)](# "ref")
-1. *Sun pm:* What is the **Fate** of mankind? [(ch9)](# "ref")
-1. *Mon am:* What is the meaning of **Life**? [(ch12)](# "ref")
+1. *Sun pm:* What is the <br> **Fate** of mankind? [(ch9)](# "ref")
+1. *Mon am:* What is the <br> meaning of **Life**? [(ch12)](# "ref")
 
 >>>
 + Sol's **search** for meaning / purpose
@@ -43,7 +43,8 @@
 ******
 [1](# "ref")
 Remember also your Creator in the days of your youth,<br>
-before the evil days come<br>
+before the evil days come
+
 and the years draw near of which you will say,<br>
 “I have no pleasure in them” ...
 
