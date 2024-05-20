@@ -327,7 +327,8 @@ with every **secret** thing, whether **good** or **evil**.
 + He is not only **just** + **holy**
   + but also **merciful** + **loving**
 + **Every** deed into judgment:
-  + sounds really **scary**!
+  + How will we be **assessed**?
+  + **Intentions**? Trying? Better than most?
 + nothing is **hidden** from God's eyes
   + even innermost **thoughts** of the heart
 + but if we have **Christ**,
