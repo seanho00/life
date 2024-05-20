@@ -91,6 +91,13 @@ with every secret thing, whether good or evil.
 1. The Shepherd's **Goads** [(v9-12)](# "ref")
 1. The **Fear** of the LORD [(v13-14)](# "ref")
 
+>>>
++ **Frailty** of man + **sovereignty** of God
++ call to **heed** God's wisdom
++ present **existence** + future **hope** revolve on
+  + **justice** + **mercy** of God
++ **snippets** of poem in ch12;
+
 ---
 <!-- .slide: <%= bg("pixabay-852423-homeless.jpg") %> -->
 Remember also your **Creator** <br>
@@ -142,6 +149,9 @@ who are eagerly waiting for him.
 
 >>>
 + **how** will we be **judged**?
+  + not **intentions**, trying
+  + not **compared** w/others: on curve
++ " Be holy, as I an holy "
 + if **no one** is righteous in God's sight
 + then our **eternal home** would be
   + eternity in the **fires** of His judgment
@@ -327,8 +337,7 @@ with every **secret** thing, whether **good** or **evil**.
 + He is not only **just** + **holy**
   + but also **merciful** + **loving**
 + **Every** deed into judgment:
-  + How will we be **assessed**?
-  + **Intentions**? Trying? Better than most?
+  + by God's **perfect** holiness
 + nothing is **hidden** from God's eyes
   + even innermost **thoughts** of the heart
 + but if we have **Christ**,
