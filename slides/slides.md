@@ -1,5 +1,8 @@
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="title" -->
 # Life
+
+<img src="img/life-qr.png" class="r-stretch" />
+
 ## Ecclesiastes 12
 ### The Search for Meaning (4/4)
 
@@ -25,7 +28,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is <br> the **meaning** of life?
+# What is the **meaning** of life?
 
 >>>
 + today: Sol's **conclusion**
@@ -42,32 +45,36 @@
 
 ******
 [1](# "ref")
-Remember also your Creator in the days of your youth,<br>
-before the evil days come
+Remember also your Creator <br>
+in the days of your youth,
 
+before the evil days come <br>
 and the years draw near of which you will say,<br>
 “I have no pleasure in them” ...
 
-[Ecclesiastes 12:1 (ESV) (p.1/3)](# "ref")
-
-******
 [7](# "ref")
 and the dust returns to the earth as it was,<br>
 and the spirit returns to God who gave it.
 
+[Ecclesiastes 12:1,7 (ESV) (p.1/3)](# "ref")
+
+******
 [8](# "ref")
-Vanity of vanities, says the Preacher; all is vanity.
+Vanity of vanities, says the Preacher; <br>
+all is vanity.
 
 [11](# "ref")
 The words of the wise are like goads,<br>
-and like nails firmly fixed are the collected sayings;<br>
+and like nails firmly fixed <br>
+are the collected sayings;<br>
 they are given by one Shepherd.
 
-[Ecclesiastes 12:7-8,11 (ESV) (p.2/3)](# "ref")
+[Ecclesiastes 12:8,11 (ESV) (p.2/3)](# "ref")
 
 ******
 [13](# "ref")
-The end of the matter; all has been heard.<br>
+The end of the matter; all has been heard.
+
 Fear God and keep his commandments,<br>
 for this is the whole duty of man.
 
@@ -86,7 +93,9 @@ with every secret thing, whether good or evil.
 
 ---
 <!-- .slide: <%= bg("pixabay-852423-homeless.jpg") %> -->
-Remember also your **Creator** in the days of your **youth**,<br>
+Remember also your **Creator** <br>
+in the days of your **youth**,
+
 before the **evil days** come
 
 [Ecclesiastes 12:1 (ESV)](# "ref")
@@ -96,7 +105,7 @@ before the **evil days** come
   + have **wisdom** of experience
 + but also **regret** over wasted **youth**:
   + only thought of **own** dreams/aspirations
-  + did not acknowledge our **Creator**
+  + did not acknowledge my **Creator**
 + facing **death** brings life into **focus**
   + we are going to **face** our Creator
 + are we **prepared**?
@@ -125,7 +134,8 @@ so **Christ**, having been **offered once** <br>
 to bear the **sins** of many,
 
 will appear a **second** time, not to deal with **sin** <br>
-but to **save** those who are eagerly waiting for him.
+but to **save** those <br>
+who are eagerly waiting for him.
 
 [Hebrews 9:27-28 (ESV)](# "ref")
 [Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
@@ -153,9 +163,10 @@ but to **save** those who are eagerly waiting for him.
 
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
-Remember also your **Creator** in the days of your **youth**,<br>
-before the **evil days** come
+Remember also your **Creator** <br>
+in the days of your **youth**,
 
+before the **evil days** come<br>
 and the years draw near of which you will say,<br>
 “I have **no pleasure** in them”;
 
@@ -168,11 +179,13 @@ and the **clouds** return after the rain,
 
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
-in the day when the **keepers** of the house tremble, <br>
+in the day when <br>
+the **keepers** of the house tremble, <br>
 and the **strong men** are bent,
 
 and the **grinders** cease because they are few, <br>
-and those who look through the **windows** are dimmed,
+and those who look through the **windows** <br>
+are dimmed,
 
 [Ecclesiastes 12:3 (ESV) (p.2/6)](# "ref")
 
@@ -192,7 +205,8 @@ they are **afraid** also of what is **high**, <br>
 and terrors are in the **way**; 
 
 the **almond tree** blossoms, <br>
-the **grasshopper** drags itself along, and **desire** fails,
+the **grasshopper** drags itself along, <br>
+and **desire** fails,
 
 because man is going to his **eternal home**, <br>
 and the **mourners** go about the streets --
@@ -202,7 +216,8 @@ and the **mourners** go about the streets --
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 before the **silver cord** is snapped, <br>
-or the **golden bowl** is broken, <br>
+or the **golden bowl** is broken, 
+
 or the **pitcher** is shattered at the fountain, <br>
 or the **wheel** broken at the cistern,
 
@@ -213,13 +228,14 @@ or the **wheel** broken at the cistern,
 and the **dust** returns to the **earth** as it was,<br>
 and the **spirit** returns to **God** who gave it.
 
-**Vanity** of vanities, says the Preacher; all is vanity.
+**Vanity** of vanities, says the Preacher; <br>
+all is vanity.
 
 [Ecclesiastes 12:7-8 (ESV) (p.6/6)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I **prepared** to go to my **eternal home**?
+# Am I **prepared** <br> to go to <br> my **eternal home**?
 
 >>>
 + appointed to **die** once
@@ -243,7 +259,9 @@ and the **spirit** returns to **God** who gave it.
 ---
 <!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
 The **words** of the wise are like **goads**,<br>
-and like **nails** firmly fixed are the collected sayings;<br>
+and like **nails** firmly fixed <br>
+are the collected sayings;
+
 they are given by one **Shepherd**.
 
 [Ecclesiastes 12:11 (ESV)](# "ref")
@@ -284,11 +302,15 @@ they are given by one **Shepherd**.
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
-The **end** of the matter; all has been heard.<br>
-**Fear God** and keep his **commandments**,<br>
-for this is the **whole** duty of man.
+The **end** of the matter; all has been heard.
 
-[Ecclesiastes 12:13 (ESV) (p.1/2)](# "ref")
+**Fear God** and keep his **commandments**,<br>
+for this is the **whole** [duty] of man.
+
+For God will bring every **deed** into **judgment**,<br>
+with every **secret** thing, whether **good** or **evil**.
+
+[Ecclesiastes 12:13 (ESV)](# "ref")
 [Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 
 >>>
@@ -304,16 +326,8 @@ for this is the **whole** duty of man.
   + fear of the LORD draws us **closer**
 + He is not only **just** + **holy**
   + but also **merciful** + **loving**
-
----
-<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
-For God will bring every **deed** into **judgment**,<br>
-with every **secret** thing, whether **good** or **evil**.
-
-[Ecclesiastes 12:14 (ESV) (p.2/2)](# "ref")
-
->>>
-+ this sounds really **scary**!
++ **Every** deed into judgment:
+  + sounds really **scary**!
 + nothing is **hidden** from God's eyes
   + even innermost **thoughts** of the heart
 + but if we have **Christ**,
@@ -341,7 +355,7 @@ For the law of the **Spirit of life** has set you<br>
   + trying to be **righteous**
   + is **futile** on our own strength
 + law of **Spirit of life**:
-  + Christ bore the **condemnation** in our place
+  + Christ bore **condemntn** in our place
   + gave us **new life**
   + and **Holy Spirit** to dwell in us
 
