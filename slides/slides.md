@@ -371,7 +371,7 @@ For the law of the **Spirit of life** has set you<br>
 
 ---
 <!-- .slide: data-background="white" -->
-# Will I **trust** Jesus <br> with my **life**?
+# Do I **fear** death and judgment?
 
 >>>
 + the entirety of **who I am** is
